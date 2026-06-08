@@ -8,9 +8,11 @@ manaus · -3.10°, -60.02°
 estatístico em formação. transformo ruído em sinal com pipelines reprodutíveis,
 controle de processo e séries temporais.
 
-```
-P(A|B) = P(B|A)·P(A) / P(B)
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./bayes_light_text.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./bayes_dark_text.svg">
+  <img alt="P(A|B) = P(B|A)·P(A) / P(B)" src="./bayes_dark_text.svg" height="48">
+</picture>
 
 ---
 
@@ -44,6 +46,13 @@ métodos      CEP · STL · séries temporais · inferência bayesiana
 ```
 
 acredito que boas análises são tão importantes quanto boas visualizações.
+
+---
+
+## estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-hugo&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o-hugo&layout=compact&hide_border=true&hide_title=true&theme=dark)
 
 ---
 
