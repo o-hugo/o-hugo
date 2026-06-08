@@ -8,7 +8,7 @@ manaus · -3.10°, -60.02°
 estatístico em formação. transformo ruído em sinal com pipelines reprodutíveis,
 controle de processo e séries temporais.
 
-![Teorema de Bayes](https://latex.codecogs.com/svg.image?P(A\mid%20B)=\dfrac{P(B\mid%20A)\cdot%20P(A)}{P(B)})
+![Teorema de Bayes](https://latex.codecogs.com/svg.image?{\color{Gray}P(A\mid%20B)=\dfrac{P(B\mid%20A)\cdot%20P(A)}{P(B)}})
 
 ---
 
@@ -47,8 +47,8 @@ acredito que boas análises são tão importantes quanto boas visualizações.
 
 ## estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-hugo&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=o-hugo&layout=compact&hide_border=true&hide_title=true&theme=dark)
+![stats](./profile/stats.svg)
+![top languages](./profile/top-langs.svg)
 
 ---
 
