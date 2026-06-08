@@ -8,11 +8,7 @@ manaus · -3.10°, -60.02°
 estatístico em formação. transformo ruído em sinal com pipelines reprodutíveis,
 controle de processo e séries temporais.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./bayes_light_text.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./bayes_dark_text.svg">
-  <img alt="P(A|B) = P(B|A)·P(A) / P(B)" src="./bayes_dark_text.svg" height="48">
-</picture>
+![Teorema de Bayes](https://latex.codecogs.com/svg.image?P(A\mid%20B)=\dfrac{P(B\mid%20A)\cdot%20P(A)}{P(B)})
 
 ---
 
