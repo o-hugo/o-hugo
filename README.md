@@ -1,7 +1,7 @@
-# hugo matheus rocha
+# Hugo Hatheus Rocha
 
 ```
-bacharelando · estatística · ufam
+bacharelando · estatística · UFAM
 manaus · -3.10°, -60.02°
 ```
 
@@ -9,27 +9,6 @@ estatístico em formação. transformo ruído em sinal com pipelines reprodutív
 controle de processo e séries temporais.
 
 ![Teorema de Bayes](https://latex.codecogs.com/svg.image?{\color{Gray}P(A\mid%20B)=\dfrac{P(B\mid%20A)\cdot%20P(A)}{P(B)}})
-
----
-
-## projetos selecionados
-
-`p01` · **monitoramento de produtividade pública** · 2026  
-Dashboard interativo aplicando CEP para detecção de anomalias e decomposição STL.  
-`HTML/CSS` `JavaScript` `Chart.js` `CEP` `STL`  
-→ [acessar dashboard](https://o-hugo.github.io/portfolio/)
-
-`p02` · **pipeline ETL de dados médicos** · 2025  
-Consolidação de 50+ arquivos Excel com DuckDB e Regex. Dados anonimizados.  
-`Python` `DuckDB` `Pandas` `Regex`
-
-`p03` · **AED de séries temporais processuais** · 2025  
-STL, ADF, KPSS, Ljung-Box, Mann-Kendall, I-MR e CUSUM.  
-`Python` `DuckDB` `Statsmodels`
-
-`p04` · **previsão de evasão escolar** · 2025  
-Classificação com Scikit-learn sobre dados públicos da educação.  
-`Python` `Scikit-learn` `Seaborn` `EDA`
 
 ---
 
