@@ -1,5 +1,3 @@
-# Hugo Matheus Rocha
-
 ```
 bacharelando · estatística · UFAM
 manaus · -3.10°, -60.02°
