@@ -1,4 +1,4 @@
-# Hugo Hatheus Rocha
+# Hugo Matheus Rocha
 
 ```
 bacharelando · estatística · UFAM
